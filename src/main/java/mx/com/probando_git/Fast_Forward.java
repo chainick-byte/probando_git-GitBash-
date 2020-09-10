@@ -12,6 +12,9 @@ package mx.com.probando_git;
  * con esta clase quiero probar primer tipo de union de la rama principal con la alternativa
  * 
  * hago segundo commit de la rama adicional
+ * 
+ * 
+ * pruebo una rama automatica
  */
 public class Fast_Forward {
     
