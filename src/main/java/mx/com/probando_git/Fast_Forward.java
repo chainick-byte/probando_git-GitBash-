@@ -16,6 +16,10 @@ package mx.com.probando_git;
  * hago segundo commit de la rama adicional
  * 
  * 
+ * creo aqui conflicto 
+ * mas conflicto 
+ * masconflicto para dios del conflicto
+ * 
  * pruebo una rama automatica
  */
 public class Fast_Forward {
