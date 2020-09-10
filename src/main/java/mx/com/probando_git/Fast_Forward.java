@@ -21,6 +21,9 @@ package mx.com.probando_git;
  * masconflicto para dios del conflicto
  * 
  * pruebo una rama automatica
+ * 
+ * 
+ * aqui cambio para el conflicto
  */
 public class Fast_Forward {
     
