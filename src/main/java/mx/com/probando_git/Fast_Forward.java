@@ -37,5 +37,8 @@ public class Fast_Forward {
     public void tres(){
         
     }
+    public void cuatro(){
+        
+    }
     
 }
