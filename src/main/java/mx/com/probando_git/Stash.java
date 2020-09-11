@@ -12,5 +12,8 @@ package mx.com.probando_git;
 public class Stash {
     //aqui el conflicto la segunda parte del stash
     //creo conflicto para el stas
+    public void uno(){
+        
+    }
     
 }
