@@ -10,5 +10,5 @@ package mx.com.probando_git;
  * @author igorr
  */
 public class Stash {
-    
+    //aqui el conflicto la segunda parte del stash
 }
