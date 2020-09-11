@@ -34,5 +34,8 @@ public class Fast_Forward {
     public void damebonito(){
         System.err.println("hola que ase?");
     }
+    public void tres(){
+        
+    }
     
 }
