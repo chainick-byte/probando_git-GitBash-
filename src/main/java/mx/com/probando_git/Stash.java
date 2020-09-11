@@ -15,5 +15,11 @@ public class Stash {
     public void uno(){
         
     }
+    public void dos(){
+        
+    }
+    public void segundTipoRebase(){
+        
+    }
     
 }
