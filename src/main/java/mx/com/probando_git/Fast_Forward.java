@@ -31,5 +31,8 @@ package mx.com.probando_git;
 * 
  */
 public class Fast_Forward {
+    public void damebonito(){
+        System.err.println("hola que ase?");
+    }
     
 }
